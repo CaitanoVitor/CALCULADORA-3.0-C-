@@ -1,12 +1,5 @@
 # Calculadora
 
-![Uma calculadora que roda em terminal](./.docs/calculadora.gif)
-
-## Projeto
-
-Desenvolvido durante o curso Back-End da [Academia do Programador](https://www.academiadoprogramador.net) 2026
-
-
 ## Introdução
 
 Uma calculadora de console simples mas poderosa que permite realizar as quatro operações matemáticas, além da visualização do histórico de operações e a visualização da tabuada.
